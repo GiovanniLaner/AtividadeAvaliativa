@@ -4,8 +4,8 @@ import 'layout2.dart';
 
 void main() {
   runApp(MaterialApp(
-       //home: layout1(),
-       home: layout2(),
+       home: layout1(),
+       //home: layout2(),
   ));
 }
 
